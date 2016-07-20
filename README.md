@@ -3,7 +3,7 @@
 This is an app that lets you discover new movies. The movies can be sorted by popularity or rating and
 you can even save movies to a favorites tab.
 
-This app was made as part of the Udacity Android Nanodegree following these instructions 
+This app was made as part of the Udacity Android Developer Nanodegree following these instructions 
 https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true#h.y4qfj5ptq2cv
 
 # API-KEY
